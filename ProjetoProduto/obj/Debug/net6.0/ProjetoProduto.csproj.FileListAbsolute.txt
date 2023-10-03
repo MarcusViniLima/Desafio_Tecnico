@@ -1,0 +1,15 @@
+D:\programação\ProjetosC#\ProjetoProduto\ProjetoProduto\bin\Debug\net6.0\ProjetoProduto.exe
+D:\programação\ProjetosC#\ProjetoProduto\ProjetoProduto\bin\Debug\net6.0\ProjetoProduto.deps.json
+D:\programação\ProjetosC#\ProjetoProduto\ProjetoProduto\bin\Debug\net6.0\ProjetoProduto.runtimeconfig.json
+D:\programação\ProjetosC#\ProjetoProduto\ProjetoProduto\bin\Debug\net6.0\ProjetoProduto.dll
+D:\programação\ProjetosC#\ProjetoProduto\ProjetoProduto\bin\Debug\net6.0\ProjetoProduto.pdb
+D:\programação\ProjetosC#\ProjetoProduto\ProjetoProduto\obj\Debug\net6.0\ProjetoProduto.csproj.AssemblyReference.cache
+D:\programação\ProjetosC#\ProjetoProduto\ProjetoProduto\obj\Debug\net6.0\ProjetoProduto.GeneratedMSBuildEditorConfig.editorconfig
+D:\programação\ProjetosC#\ProjetoProduto\ProjetoProduto\obj\Debug\net6.0\ProjetoProduto.AssemblyInfoInputs.cache
+D:\programação\ProjetosC#\ProjetoProduto\ProjetoProduto\obj\Debug\net6.0\ProjetoProduto.AssemblyInfo.cs
+D:\programação\ProjetosC#\ProjetoProduto\ProjetoProduto\obj\Debug\net6.0\ProjetoProduto.csproj.CoreCompileInputs.cache
+D:\programação\ProjetosC#\ProjetoProduto\ProjetoProduto\obj\Debug\net6.0\ProjetoProduto.dll
+D:\programação\ProjetosC#\ProjetoProduto\ProjetoProduto\obj\Debug\net6.0\refint\ProjetoProduto.dll
+D:\programação\ProjetosC#\ProjetoProduto\ProjetoProduto\obj\Debug\net6.0\ProjetoProduto.pdb
+D:\programação\ProjetosC#\ProjetoProduto\ProjetoProduto\obj\Debug\net6.0\ProjetoProduto.genruntimeconfig.cache
+D:\programação\ProjetosC#\ProjetoProduto\ProjetoProduto\obj\Debug\net6.0\ref\ProjetoProduto.dll
